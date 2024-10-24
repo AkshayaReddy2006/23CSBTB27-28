@@ -7,3 +7,4 @@ https://github.com/AkshayaReddy2006/23CSBTB27-28/blob/main/implementation_of_lin
 https://github.com/AkshayaReddy2006/23CSBTB27-28/blob/main/titanic_regression.ipynb
 https://github.com/AkshayaReddy2006/23CSBTB27-28/blob/main/knn_in_python_.ipynb
 https://github.com/AkshayaReddy2006/23CSBTB27-28/blob/main/Mean_squared_error%2CR_squared_error.ipynb
+https://github.com/AkshayaReddy2006/23CSBTB27-28/blob/main/svm.ipynb
